@@ -1,0 +1,16 @@
+# Rust build directory
+/target
+
+# Debug files
+/debug
+**/*.rs.bk
+
+# Backup files
+*.swp
+*.tmp
+*.bak
+
+# IDEs and editors
+/.vscode/
+/.idea/
+*.log
